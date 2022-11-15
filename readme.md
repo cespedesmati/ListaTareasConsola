@@ -33,4 +33,5 @@ borrar : elimina una tarea, se debe indicar el id
     - python .\cli.py borrar 4
 ```
 
+
 ![](img/ejemplo.png)
