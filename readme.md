@@ -34,4 +34,4 @@ borrar : elimina una tarea, se debe indicar el id
 ```
 
 
-<img src="img/ejemplo.jpg"
+<img src="img/ejemplo.jpg">
